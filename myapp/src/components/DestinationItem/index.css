@@ -1,0 +1,27 @@
+.image{
+    height: 200px;
+    border-radius: 20px;
+    width: 300px;
+    cursor: pointer;
+   
+}
+
+.imagecontainer{
+    margin: 15px;
+    list-style: none;
+}
+.heading{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    margin-left: 10px;
+
+}
+
+.image:hover{
+   
+  
+  transform: scale(1.1);
+   
+}

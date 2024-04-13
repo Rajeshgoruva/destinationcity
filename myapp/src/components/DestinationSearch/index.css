@@ -1,0 +1,16 @@
+ul{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+.T-S-container{
+ margin-left: 60px;
+}
+
+@media (max-width:800px){
+    .T-S-container{
+        text-align: center;
+    }
+    
+}
